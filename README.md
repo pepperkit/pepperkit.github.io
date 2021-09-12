@@ -24,7 +24,7 @@ import static io.github.pepperkit.retry.Retry.retry;
         });
 ```
 ### Dependecy
-retry:1.0.0 has been releaseed and available
+retry:1.0.0 has been released and available
 #### Maven
 ```xml
 <dependency>
