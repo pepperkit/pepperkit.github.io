@@ -14,7 +14,7 @@ Is offered in form of a textual representation, as well as *Checkstyle* and *Int
 
 [Open in GitHub](https://github.com/pepperkit/checkstyle)
 
-## CoreNLP Stop Words Annotator
+## [CoreNLP Stop Words Annotator](https://pepperkit.github.io/stop-words-annotator)
 Annotator for CoreNLP library, allows to add the set of rules or/and the words themselves, which should be filtered out in the CoreNLP pipeline processing.
 
 [Open in GitHub](https://github.com/pepperkit/corenlp-stop-words-annotator)
