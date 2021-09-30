@@ -14,4 +14,4 @@ guides and is constantly updated to conform to the latest versions of Checkstyle
 You can freely use this one, or create a new one - just fork this repository and modify the style guide as it
 better suited to your needs.
 
-[Open in GitHub](https://github.com/pepperkit/checkstyle)
+[Open in GitHub](https://github.com/pepperkit/java-style-guide)

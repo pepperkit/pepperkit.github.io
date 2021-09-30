@@ -12,7 +12,7 @@ Simple and lightweight retry library for Java, it helps you transparently retry 
 Java style guide built upon Sun Microsystems and Google style guides, widely accepted best practices.
 Is offered in form of a textual representation, as well as *Checkstyle* and *Intellij IDEA* declarations for automation purposes.
 
-[Open in GitHub](https://github.com/pepperkit/checkstyle)
+[Open in GitHub](https://github.com/pepperkit/java-style-guide)
 
 ## [CoreNLP Stop Words Annotator](https://pepperkit.github.io/stop-words-annotator)
 Annotator for CoreNLP library, allows to add the set of rules or/and the words themselves, which should be filtered out in the CoreNLP pipeline processing.
