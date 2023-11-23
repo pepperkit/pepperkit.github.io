@@ -16,6 +16,8 @@ Java style guide built upon Sun Microsystems and Google style guides, widely acc
 ## [Git Hooks Maven Plugin](https://pepperkit.github.io/git-hooks-maven-plugin)
 Maven plugin, which helps easily configure project's git hooks, and store this configuration in the code as part of `pom.xml`.
 
+[Open in GitHub](https://github.com/pepperkit/git-hooks-maven-plugin)
+
 ## [Git Hooks Gradle Plugin](https://pepperkit.github.io/git-hooks-gradle-plugin)
 Gradle plugin, which helps easily configure project's git hooks, and store this configuration in the code as part of `build.gradle`.
 
