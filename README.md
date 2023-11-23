@@ -13,10 +13,13 @@ Java style guide built upon Sun Microsystems and Google style guides, widely acc
 
 [Open in GitHub](https://github.com/pepperkit/java-style-guide)
 
-## [Git Hooks Maven Plugin](https://github.com/pepperkit/git-hooks-maven-plugin)
+## [Git Hooks Maven Plugin](https://pepperkit.github.io/git-hooks-maven-plugin)
 Maven plugin, which helps easily configure project's git hooks, and store this configuration in the code as part of `pom.xml`.
 
-[Open in GitHub](https://github.com/pepperkit/git-hooks-maven-plugin)
+## [Git Hooks Gradle Plugin](https://pepperkit.github.io/git-hooks-gradle-plugin)
+Gradle plugin, which helps easily configure project's git hooks, and store this configuration in the code as part of `build.gradle`.
+
+[Open in GitHub](https://github.com/pepperkit/git-hooks-gradle-plugin)
 
 ## [CoreNLP Stop Words Annotator](https://pepperkit.github.io/stop-words-annotator)
 Annotator for CoreNLP library, allows to add the set of rules or/and the words themselves, which should be filtered out in the CoreNLP pipeline processing.
